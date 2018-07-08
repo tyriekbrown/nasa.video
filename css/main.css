@@ -1,0 +1,51 @@
+body{
+  background-color: black;
+}
+/* <---Title---> */
+h1{
+  color: purple;
+  text-align: center;
+  font-size: 60px;
+  outline: 1px solid;
+  outline-color: silver;
+
+}
+/* ,--End Title--> */
+/* ,---Choose Date---> */
+.top{
+  width: 100%;
+  background-color: white;
+}
+span{
+  color: purple;
+  font-size: 3em;
+  text-align: center;
+  margin-left: 35%;
+}
+input{
+  display: block;
+  color: silver;
+  background-color: black;
+  font-size: 40px;
+  margin-left: 33%;
+
+}
+/* <--End Choose Date--> */
+/* <---Results---> */
+img{
+  width: 70%;
+  margin-left: 15%;
+  height: 300px;
+}
+iframe{
+  width: 70%;
+  height: 300px;
+  margin-left: 15%;
+}
+p{
+  color: purple;
+  width: 100%;
+  text-align: center;
+  font-size: 20px;
+}
+/* <--End Results-- */
